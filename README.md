@@ -9,7 +9,7 @@
 
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Davidson%20Nkoro&fontSize=52&fontColor=white&fontAlignY=38&desc=Data%20Analyst%20%7C%20Food%20Security%20%7C%20FAO%20Consultant&descSize=17&descColor=a8b2d8&descAlignY=58&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Davidson%20Nkoro&fontSize=52&fontColor=e94560&fontAlignY=38&desc=Data%20Analyst%20%7C%20Food%20Security%20%7C%20FAO%20Consultant&descSize=17&descColor=a8b2d8&descAlignY=58&animation=fadeIn)
 
 <!-- ▶ PLACEHOLDER: Replace the src URL below with your actual GitHub avatar or a professional headshot.
      Upload a photo to this repo (e.g. assets/photo.jpg) and reference it here.
